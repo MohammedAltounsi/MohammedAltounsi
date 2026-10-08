@@ -1,7 +1,6 @@
-# Mohammed Altounsi
+<img src="./assets/header.svg" width="100%" alt="Mohammed Altounsi — payment systems and the full-stack and AI apps around them">
 
-I build payment systems and the full-stack and AI web apps around them. The
-common thread: money and data that stay correct under retries, race conditions,
+The common thread: money and data that stay correct under retries, race conditions,
 and webhook redelivery — and interfaces people actually want to use.
 
 Every project below has a live demo you can open and click through. No setup.
@@ -28,6 +27,8 @@ Every project below has a live demo you can open and click through. No setup.
 | [Morph-Design-Studio-Website](https://github.com/MohammedAltounsi/Morph-Design-Studio-Website) | Bilingual (Arabic / English) brand site for a design studio. Dark, iridescent, built to make a first impression. | [demo](https://morph-design-studio.vercel.app) |
 
 ### Stack
+
+<img src="https://skillicons.dev/icons?i=rails,ruby,nextjs,ts,react,postgres,tailwind&perline=7" height="40" alt="Rails, Ruby, Next.js, TypeScript, React, PostgreSQL, Tailwind">
 
 Ruby on Rails · Next.js · TypeScript · React · PostgreSQL · Tailwind · Stripe ·
 Anthropic API. Comfortable across the backend money path and the frontend it

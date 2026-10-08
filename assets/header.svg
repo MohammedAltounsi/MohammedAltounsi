@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="t d">
+  <title id="t">Mohammed Altounsi</title>
+  <desc id="d">Payment systems and the full-stack and AI web apps around them, drawn as a balanced ledger.</desc>
+  <rect width="1200" height="340" rx="20" fill="#0d1117"/>
+  <g stroke="#30363d" stroke-width="1.5">
+    <line x1="56" y1="220" x2="1144" y2="220"/>
+    <line x1="56" y1="276" x2="1144" y2="276"/>
+  </g>
+  <text x="56" y="118" fill="#f0f6fc" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5">Mohammed Altounsi</text>
+  <text x="56" y="176" fill="#9198a1" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="32">Payment systems, and the full-stack + AI apps around them.</text>
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="26">
+    <text x="56" y="258" fill="#9198a1">DEBITS</text>
+    <text x="220" y="258" fill="#f0f6fc">retries · races · redelivered webhooks</text>
+    <text x="56" y="314" fill="#9198a1">CREDITS</text>
+    <text x="220" y="314" fill="#f0f6fc">books that still balance</text>
+    <text x="1144" y="314" fill="#3fb950" font-weight="700" text-anchor="end">● balanced</text>
+  </g>
+</svg>

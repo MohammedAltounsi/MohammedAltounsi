@@ -1,39 +1,36 @@
-<img src="./assets/header.svg" width="100%" alt="Mohammed Altounsi — payment systems and the full-stack and AI apps around them">
+<img src="./assets/header.svg" width="100%" alt="Mohammed Altounsi, full-stack developer working with Rails, Next.js and TypeScript">
 
-The common thread: money and data that stay correct under retries, race conditions,
-and webhook redelivery — and interfaces people actually want to use.
+I build web apps with Ruby on Rails and Next.js. Most of my work is payments and
+Stripe integrations, plus a couple of tools that use the Anthropic API. Each
+project below has a live demo.
 
-Every project below has a live demo you can open and click through. No setup.
-
-### Payments — money that stays correct
-
-| Project | What it is | Live |
-|---|---|---|
-| [rails-refunds-system](https://github.com/MohammedAltounsi/rails-refunds-system) | Refund state machine, idempotent reversals, and a double-entry ledger that stays balanced through partial refunds. Rails 8 + Postgres + Stripe. | [demo](https://rails-refunds-system.onrender.com) |
-| [rails-stripe-wallet-ledger-sandbox](https://github.com/MohammedAltounsi/rails-stripe-wallet-ledger-sandbox) | Payments and wallet ledger: Stripe PaymentIntents, signature-verified webhooks, and reconciliation that proves the books balance to the halala. | [demo](https://dallah-coffee.onrender.com) |
-
-### AI tools — the model explains, the code decides
+### Payments
 
 | Project | What it is | Live |
 |---|---|---|
-| [AI-Website-Auditor](https://github.com/MohammedAltounsi/AI-Website-Auditor) | Paste a URL, get a Health Score from real PageSpeed data plus a Claude-written, severity-ranked fix list. The score is arithmetic, never the model. | [demo](https://ai-website-auditor-indol.vercel.app) |
-| [AI-Code-Reviewer](https://github.com/MohammedAltounsi/AI-Code-Reviewer) | Paste code or a GitHub URL, get a structured review with a deterministic Code Health Score and fixes grouped by severity. | [demo](https://ai-code-reviewer-coral-five.vercel.app) |
+| [rails-refunds-system](https://github.com/MohammedAltounsi/rails-refunds-system) | Stripe refunds in Rails 8. Each refund goes through a state machine, partial refunds are supported, and every money movement is recorded in a double-entry ledger. | [demo](https://rails-refunds-system.onrender.com) |
+| [rails-stripe-wallet-ledger-sandbox](https://github.com/MohammedAltounsi/rails-stripe-wallet-ledger-sandbox) | A coffee-shop demo with card payments and a prepaid wallet. Uses Stripe PaymentIntents and signed webhooks, plus a reconciliation check against Stripe. | [demo](https://dallah-coffee.onrender.com) |
 
-### Product and brand
+### AI tools
 
 | Project | What it is | Live |
 |---|---|---|
-| [Complaint-Management-System](https://github.com/MohammedAltounsi/Complaint-Management-System) | Multi-tenant, Arabic-first complaints SaaS for Saudi e-commerce — intake to resolution to monthly reporting. | [demo](https://complaints-saas-demo.vercel.app) |
-| [Morph-Design-Studio-Website](https://github.com/MohammedAltounsi/Morph-Design-Studio-Website) | Bilingual (Arabic / English) brand site for a design studio. Dark, iridescent, built to make a first impression. | [demo](https://morph-design-studio.vercel.app) |
+| [AI-Website-Auditor](https://github.com/MohammedAltounsi/AI-Website-Auditor) | Audits a website from its URL. Pulls the four PageSpeed scores, averages them, and uses Claude to write a list of fixes sorted by severity. | [demo](https://ai-website-auditor-indol.vercel.app) |
+| [AI-Code-Reviewer](https://github.com/MohammedAltounsi/AI-Code-Reviewer) | Reviews one file of code, pasted or from a GitHub link. Lists issues by severity with a suggested fix for each, and gives a score out of 100. | [demo](https://ai-code-reviewer-coral-five.vercel.app) |
+
+### Websites and apps
+
+| Project | What it is | Live |
+|---|---|---|
+| [Complaint-Management-System](https://github.com/MohammedAltounsi/Complaint-Management-System) | Complaint tracking for Saudi online stores, in Arabic. Several stores can use one install, each with its own data. Covers intake, follow-up and monthly reports. | [demo](https://complaints-saas-demo.vercel.app) |
+| [Morph-Design-Studio-Website](https://github.com/MohammedAltounsi/Morph-Design-Studio-Website) | Arabic and English website for a design studio. | [demo](https://morph-design-studio.vercel.app) |
 
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=rails,ruby,nextjs,ts,react,postgres,tailwind&perline=7" height="40" alt="Rails, Ruby, Next.js, TypeScript, React, PostgreSQL, Tailwind">
 
-Ruby on Rails · Next.js · TypeScript · React · PostgreSQL · Tailwind · Stripe ·
-Anthropic API. Comfortable across the backend money path and the frontend it
-runs behind.
+Ruby on Rails, Next.js, TypeScript, React, PostgreSQL, Tailwind, Stripe, Anthropic API.
 
-### Reach me
+### Contact
 
 [LinkedIn](https://www.linkedin.com/in/mohammed-altounsi/) · mhmdaltounsi@gmail.com

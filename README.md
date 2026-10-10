@@ -24,6 +24,8 @@ project below has a live demo.
 |---|---|---|
 | [Complaint-Management-System](https://github.com/MohammedAltounsi/Complaint-Management-System) | Complaint tracking for Saudi online stores, in Arabic. Several stores can use one install, each with its own data. Covers intake, follow-up and monthly reports. | [demo](https://complaints-saas-demo.vercel.app) |
 | [Morph-Design-Studio-Website](https://github.com/MohammedAltounsi/Morph-Design-Studio-Website) | Arabic and English website for a design studio. | [demo](https://morph-design-studio.vercel.app) |
+| [Premium-Olive-Oil-Illustration-Website](https://github.com/MohammedAltounsi/Premium-Olive-Oil-Illustration-Website) | Arabic and English website for a Saudi olive oil brand, with an illustrated hero and drawings that play as you scroll. | [demo](https://naturaloli-preview.onrender.com) |
+| [Heritage-Sweets-Paper-Cut-Illustration-Website](https://github.com/MohammedAltounsi/Heritage-Sweets-Paper-Cut-Illustration-Website) | Arabic-first website for a sweets factory in Jeddah, with paper-cut scenes that move as you scroll. | [demo](https://hijazi-taste-preview.vercel.app) |
 
 ### Stack
 
